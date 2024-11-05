@@ -1,0 +1,37 @@
+Questions:
+1.Retrieve the name of the first ongoing project that Bob is working on.
+
+2.Find the street address of the company.
+
+3.Access the role of the second employee listed in the employees list.
+
+4.Get the name of the team lead for the development department.
+
+5.Identify the first skill of the employee named Alice.#
+
+
+
+
+
+11.Extract the names of all employees who have "Python" as a skill.
+
+12.Find the name of the partner company that provides "Fraud Detection" as a service.
+
+13.Access the list of all skills that employees have, without any duplicates.
+
+14. Retrieve the names of all ongoing projects across all employees in a single list.
+
+15.Calculate the total budget for both the development and marketing departments combined.
+
+
+
+6.Retrieve the services offered by the partner company that started working with Tech Solutions in 2020.
+
+7.Extract the name of the company’s city and the postal code as a single dictionary.
+
+8.Find the total number of projects (ongoing and completed) that the employee named Bob has worked on.
+
+9.Access the budget allocated to the marketing department.
+
+10.Retrieve the list of completed projects that Alice has worked on.
+
