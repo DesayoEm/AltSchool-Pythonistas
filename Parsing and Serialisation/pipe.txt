@@ -1,0 +1,12 @@
+id|name|age|email|city
+1|Mide|25|mide@example.com|Lagos
+2|Alee|29|alee@example.com|Abuja
+3|Danny|34|danny@example.com|New York
+4|Opeyemi|28|opeyemi@example.com|Ibadan
+5|Olamilekan|32|olamilekan@example.com|London
+6|Success|22|success@example.com|Port Harcourt
+7|Aaminah|27|aaminah@example.com|Dubai
+8|Toyeebah|24|toyeebah@example.com|Abuja
+9|Desayo|31|desayo@example.com|Toronto
+10|Isaac|30|issacand@example.com|Sydney
+11|Mulikat|26|mulikat@example.com|Accra
